@@ -4,19 +4,21 @@
     - [ ] update questionnaire 
     - [ ] embed tor animation on LFP/torexit
 
-## Ideological resources
+## Background resources
 - What is a Tor relay? From EFF's Tor Challenge: https://www.eff.org/torchallenge/what-is-tor.html
 - Tor Project's 'About Tor': https://www.eff.org/torchallenge/what-is-tor.html
 - The Tor Browser and Intellectual Freedom in the Digital Age by Alison Macrina: https://journals.ala.org/rusq/article/download/5704/7092
 
-- Support letters for LFP's original pilot Tor relay
-    Open letter from LFP, Tor Project, ACLU, and a coalition of public interest groups and individuals: https://libraryfreedomproject.org/wp-content/uploads/2015/09/Kilton-Letter.pdf
-    Letter from the ALA Office of Intellectual Freedom: https://libraryfreedomproject.org/wp-content/uploads/2015/09/Kilton-support-letter-OIF.pdf
-    Letter from Jonathan Proulx, Tor exit node operator at MIT CSAIL: https://libraryfreedomproject.org/wp-content/uploads/2015/09/Kilton-support-letter-Jonathan-Proulx.pdf
+## Support letters for LFP's original pilot Tor relay
+-Open letter from LFP, Tor Project, ACLU, and a coalition of public interest groups and individuals: https://libraryfreedomproject.org/wp-content/uploads/2015/09/Kilton-Letter.pdf
+-Letter from the ALA Office of Intellectual Freedom: https://libraryfreedomproject.org/wp-content/uploads/2015/09/Kilton-support-letter-OIF.pdf
+-Letter from Jonathan Proulx, Tor exit node operator at MIT CSAIL: https://libraryfreedomproject.org/wp-content/uploads/2015/09/Kilton-support-letter-Jonathan-Proulx.pdf
+-Letter from Representative Zoe Lofgren to Jeh Johnson, secretary of DHS, condemning DHS actions in New Hampshire and asking for information on similar intervention efforts:
+https://lofgren.house.gov/uploadedfiles/tor_letter.pdf
 
-- LFP Tor relay pilot project posts
-    Original pilot project announcement: https://libraryfreedomproject.org/torexitpilotphase1
-    New Hampshire pilot Project wrap-up post: https://libraryfreedomproject.org/torexitspilotwrapup 
+## LFP Tor relay pilot project posts
+-Original pilot project announcement: https://libraryfreedomproject.org/torexitpilotphase1
+-New Hampshire pilot Project wrap-up post: https://libraryfreedomproject.org/torexitspilotwrapup 
 
 
 ##Technical resources
