@@ -1,6 +1,6 @@
 # Resources for running Tor exit nodes in libraries
 
-    - [ ] Sample letter to get the $entity join the program
+    - [ ] Sample letter to get the $entity to join the program
     - [ ] update questionnaire 
     - [ ] embed tor animation on LFP/torexit
 
