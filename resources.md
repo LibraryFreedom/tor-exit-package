@@ -5,6 +5,7 @@
     - [ ] embed tor animation on LFP/torexit
 
 ## Background resources
+- One page document introducing LFP to your library: https://libraryfreedomproject.org/resources/more-resources/join%20LFP/
 - What is a Tor relay? From EFF's Tor Challenge: https://www.eff.org/torchallenge/what-is-tor.html
 - Tor Project's 'About Tor': https://www.eff.org/torchallenge/what-is-tor.html
 - The Tor Browser and Intellectual Freedom in the Digital Age by Alison Macrina: https://journals.ala.org/rusq/article/download/5704/7092
