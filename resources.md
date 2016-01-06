@@ -1,8 +1,11 @@
 # Resources for running Tor exit nodes in libraries
 
+todo
     - [ ] Sample letter to get the $entity join the program
     - [ ] update questionnaire 
     - [ ] embed tor animation on LFP/torexit
+    - [ ] Sample letter for $communitymember to send to library/local news/etc about joining the project
+    - [ ] international resources
 
 ## Background resources
 - One page document introducing LFP to your library: https://libraryfreedomproject.org/resources/more-resources/join%20LFP/
