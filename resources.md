@@ -1,6 +1,7 @@
 # Resources for running Tor exit nodes in libraries
 
-todo
+todo:
+
     - [ ] Sample letter to get the $entity join the program
     - [ ] update questionnaire 
     - [ ] embed tor animation on LFP/torexit
