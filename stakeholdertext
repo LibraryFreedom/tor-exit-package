@@ -1,0 +1,15 @@
+Hello,
+
+I would like _____ library to support Tor / ______ would like to support Tor in their library. Tor is free and open source software that helps people protect their privacy and anonymity while they access the Internet. This is done by routing the traffic of a Tor user through three different volunteer-run relays. These create layers of encryption that prevent websites from knowing the user's location, and also prevent anyone watching that user's Internet connection from knowing which websites they visit.
+
+People need Tor for many different reasons. Some people need to circumvent restrictions placed on Internet access by oppressive governments. Some people need to evade being located by their stalkers or abusive partners. Some people need to remain anonymous to protect themselves while reporting on human rights infringements. There are countless reasons why a user may need Tor to protect their intellectual freedom – their right to read, research and speak freely. The American Library Association's website1 states:
+
+“Protecting the library users' right to privacy—the right to open inquiry without having the subject of one’s interest examined or scrutinized by others, free from fear of government intrusion, intimidation, or reprisal—is one of the core ethical obligations of the library profession. Everyone (paid or unpaid) who provides governance, administration or service in libraries has a responsibility to maintain an environment respectful and protective of the privacy of all users.”
+
+Tor is an essential tool for librarians who want to help people, both in the library and worldwide, to reclaim their privacy and defend their intellectual freedom. This can be done in a variety of ways; for example, by installing the Tor Browser on library computers. This will allow patrons to browse anonymously in the library; and simply by being a user of Tor, the Tor network is more effective. This is because it becomes progressively harder to locate a user when they are hiding in an ever-increasing crowd of identical anonymous users.
+
+Another vital role that libraries can play in the Tor network is by setting up relays, particularly exit relays, in the library. Relays are run by volunteers all over the world and help anonymize information about a Tor user's location. Exit relays are particularly necessary because they are the third and final layer of protection where traffic exits the Tor network to access the Internet. This is the only step during the process that is publicly visible, and it will appear as though people who use Tor are accessing websites from that exit relay's IP address. Libraries, as public spaces dedicated to intellectual freedom, are in a unique position to help both their local community and the global community by hosting exit relays.
+
+For more information on how libraries can protect intellectual freedom and patron privacy, please visit libraryfreedomproject.org, or contact us at info@libraryfreedomproject.org. For further information on Tor itself, please visit torproject.org.
+
+1 http://www.ala.org/advocacy/encryption-and-patron-privacy Encryption and Patron Privacy
