@@ -5,7 +5,6 @@ todo:
     - [ ] Sample letter to get the $entity join the program
     - [ ] update questionnaire 
     - [ ] embed tor animation on LFP/torexit
-    - [ ] Sample letter for $communitymember to send to library/local news/etc about joining the project
     - [ ] international resources
 
 ## Background resources
@@ -13,6 +12,7 @@ todo:
 - What is a Tor relay? From EFF's Tor Challenge: https://www.eff.org/torchallenge/what-is-tor.html
 - Tor Project's 'About Tor': https://www.eff.org/torchallenge/what-is-tor.html
 - The Tor Browser and Intellectual Freedom in the Digital Age by Alison Macrina: https://journals.ala.org/rusq/article/download/5704/7092
+- Sample letter from community stakeholder to help convince libraries about using Tor and running relays https://github.com/LibraryFreedom/tor-exit-package/blob/master/stakeholdertext
 
 ## Support letters for LFP's original pilot Tor relay
 - Open letter from LFP, Tor Project, ACLU, and a coalition of public interest groups and individuals: https://libraryfreedomproject.org/wp-content/uploads/2015/09/Kilton-Letter.pdf
