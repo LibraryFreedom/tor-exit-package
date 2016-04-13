@@ -8,7 +8,7 @@ todo:
     - [ ] international resources
 
 ## Background resources
-- One page document introducing LFP to your library: https://libraryfreedomproject.org/resources/more-resources/join%20LFP/
+- One page document introducing LFP to your library: https://libraryfreedomproject.org/wp-content/uploads/2015/03/join-LFP.pdf
 - What is a Tor relay? From EFF's Tor Challenge: https://www.eff.org/torchallenge/what-is-tor.html
 - Tor Project's 'About Tor': https://www.eff.org/torchallenge/what-is-tor.html
 - The Tor Browser and Intellectual Freedom in the Digital Age by Alison Macrina: https://journals.ala.org/rusq/article/download/5704/7092
