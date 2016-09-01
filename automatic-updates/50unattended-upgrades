@@ -1,4 +1,7 @@
-// Automatically upgrade packages from any origin 
+// Config downloaded from Library Freedom Project tor-exit-package
+// GitHub: https://github.com/LibraryFreedom/tor-exit-package
+
+// Automatically upgrade packages from any origin
 Unattended-Upgrade::Allowed-Origins {
 	"o=*";
 }
