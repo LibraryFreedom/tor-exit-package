@@ -1,5 +1,7 @@
 // Config downloaded from Library Freedom Project tor-exit-package
 // GitHub: https://github.com/LibraryFreedom/tor-exit-package
+// Author: Nima Fatemi - mrphs@riseup.net @mrphs
+// Date:   Sep 1, 2016
 
 // Automatically upgrade packages from any origin
 Unattended-Upgrade::Allowed-Origins {
