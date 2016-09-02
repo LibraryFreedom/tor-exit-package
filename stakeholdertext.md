@@ -12,4 +12,5 @@ Another vital role that libraries can play in the Tor network is by setting up r
 
 For more information on how libraries can protect intellectual freedom and patron privacy, please visit https://libraryfreedomproject.org, or contact us at info@libraryfreedomproject.org. For further information on Tor itself, please visit https://www.torproject.org.
 
+----
 1 http://www.ala.org/advocacy/encryption-and-patron-privacy Encryption and Patron Privacy
