@@ -19,7 +19,7 @@ Step 1: Install automatic updates
 -------
 Make sure your system is up to date
 
-    $ sudo apt-get update && sudo apt-get upgdare
+    $ sudo apt-get update && sudo apt-get upgrade
 
 Install `unattended-upgrades` `apt-listchanges` packages
 
