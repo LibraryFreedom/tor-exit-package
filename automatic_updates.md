@@ -73,8 +73,14 @@ everything correctly.
 pre-made config. You must be aware that this config upgrades all
 packages from every origin. In order to do so, run the following commands:
 
-    $ sudo wget -p -O /etc/apt/apt.conf.d/50unattended-upgrades https://raw.githubusercontent.com/LibraryFreedom/tor-exit-package/master/automatic-updates/50unattended-upgrades
-  
+Jessie:
+
+    $ sudo wget -p -O /etc/apt/apt.conf.d/50unattended-upgrades https://raw.githubusercontent.com/LibraryFreedom/tor-exit-package/master/automatic-updates/50unattended-upgrades-jessie
+
+Wheezy:
+
+    $ sudo wget -p -O /etc/apt/apt.conf.d/50unattended-upgrades https://raw.githubusercontent.com/LibraryFreedom/tor-exit-package/master/automatic-updates/50unattended-upgrades-wheezy
+
 Step 5: Monitor your logs
 -------
 Remember to monitor your logs and mails being sent to root. 
