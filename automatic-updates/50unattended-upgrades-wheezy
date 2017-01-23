@@ -1,7 +1,7 @@
 // Config downloaded from Library Freedom Project tor-exit-package
 // GitHub: https://github.com/LibraryFreedom/tor-exit-package
 // Author: Nima Fatemi - mrphs@riseup.net @mrphs
-// Date:   Sep 1, 2016
+// Date:   2016 - 2017
 
 // Automatically upgrade packages from any origin
 Unattended-Upgrade::Allowed-Origins {
@@ -24,3 +24,8 @@ Unattended-Upgrade::MailOnlyOnError "true";
 // Automatically reboot *WITHOUT CONFIRMATION*
 //  if the file /var/run/reboot-required is found after the upgrade 
 Unattended-Upgrade::Automatic-Reboot "true";
+
+// If automatic reboot is enabled and needed, reboot at the specific
+// time instead of immediately
+//  Default: "now"
+Unattended-Upgrade::Automatic-Reboot-Time "02:00";
